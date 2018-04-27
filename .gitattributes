@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-*.java linguist-language=JavaScript
+*.java linguist-language=TypeScript
